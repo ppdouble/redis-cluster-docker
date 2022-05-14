@@ -8,7 +8,7 @@ Notes:
 
 In my case, users in redis 6.2 container is as follow:
 
-| | container | root | redis |
+| container | name | root | redis |
 | -- | -- | -- | -- |
 | container | id| 0 | 999 |
 | host | id | 100000 | 100999 |
